@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Document</title>
+    <style>
+        body
+        {
+            font-family: arial,sans-serif;
+            background-color: #cbb0b0;
+        }
+        form{
+            width: 300px;
+            margin: 150px auto;
+            padding: 40px;
+            background-color: rgb(137, 220, 243);
+            border: 1px solid #ddd;
+            border-radius: 10px;
+            box-shadow: 00 25px rgb(108, 190, 193);
+        }
+        input{
+            width: 100%;
+            margin-bottom: 30px;
+            padding: 10px;
+            background-color: #e5d5d5;
+            border-radius: 10px;
+        }
+        button{
+            width: 100%;
+            padding: 10px;
+            background-color: blue;
+            color: ;
+            border-radius: 50px;
+            cursor: pointer;
+        }
+            button:hover{
+                background-color: #898582cb;
+            }
+            h2{
+                margin-top: 10px;
+                font-size: 30px;
+            }
+            color: rgb(54, 28, 224);
+            </style>
+</head>
+<body>
+    <form >
+    <h2>login</h2>
+    <input type="text"placeholder="Users name" class="element"><br>
+    <input type="password"placeholder="password"><br>
+    <button>login</button>
+    </div>
+    </form>
+</body>
+</html>
